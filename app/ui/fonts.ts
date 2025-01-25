@@ -5,4 +5,4 @@ export const lusitana = Lusitana({
     weight: ['400', "700"],
     style: 'normal',
     subsets: ['latin'],
-})
+});
